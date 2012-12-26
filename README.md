@@ -16,6 +16,6 @@ This project was written by Andreas Göransson and David Cuartielles for a book c
 
 ### If there are compilation errors
 
-6. **Right-click** the **WroxAccessories** project in your Package Explorer and select 	**Properties**
+6. **Right-click** the **Basic Robot** project in your Package Explorer and select 	**Properties**
 7. Set the **Build Target** to be **Google APIs** version **12**
 8. Click **OK**
